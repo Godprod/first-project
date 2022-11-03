@@ -145,14 +145,14 @@ tr {
   text-align: center;
 }
 summary {
-    text-align: center;
-    color: red;
-    font-size: 30px;
+  text-align: center;
+  color: red;
+  font-size: 30px;
 }
 a {
   color: blue;
   font-size: 50px;
-text-decoration: none;
+  text-decoration: none;
 }
 h1 {
   color: rgb(142, 57, 238);
@@ -186,40 +186,43 @@ caption {
   height: 400px;
 }
 div {
-    text-align: center;
+  text-align: center;
 }
 
 .subscription {
-    font-size: 16px; margin: 10px;
+  font-size: 16px;
+  margin: 10px;
 }
 .second-table {
-    color: firebrick ;
+  color: firebrick;
 }
 .secondtr {
-    background-color: rgb(255, 255, 255);
+  background-color: rgb(255, 255, 255);
 }
 .secondcontent {
-    width: 300px;
-    height: 300px;
+  width: 300px;
+  height: 300px;
 }
 .container {
-    width: 1230px; margin: 200 auto;
-    padding: 0 15px; border: 1px solid black;
+  width: 1230px;
+  margin: 200 auto;
+  padding: 0 15px;
+  border: 1px solid black;
 }
 .header {
-    border: 2px solid yellowgreen;
+  border: 2px solid yellowgreen;
 }
 .main {
-    border: 2px solid blue;
+  border: 2px solid blue;
 }
 .footer {
-    border: 2px solid red;
+  border: 2px solid red;
 }
 
 .main + div {
-    background-color: aquamarine;
+  background-color: aquamarine;
 }
 
 .container > .header {
-background-color: darkcyan;
+  background-color: darkcyan;
 }
