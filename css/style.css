@@ -226,6 +226,9 @@ div {
 .container > .header {
   background-color: darkcyan;
 }
-.header > .main {
+.header + .main {
     color: darkgoldenrod;
+}
+.footer div {
+    color: blueviolet; font-size: 30px;
 }
