@@ -232,3 +232,16 @@ div {
 .footer div {
     color: blueviolet; font-size: 30px;
 }
+.othercontainer {
+    border: 2px solid grey;
+    width: 1230px; margin: 0 auto;
+    padding: 0 15px;
+    background-color: chartreuse;
+}
+.secondtable {
+    background-color: blanchedalmond;
+}
+
+.firstLine > td {
+    color:fuchsia
+}
