@@ -241,7 +241,9 @@ div {
 .secondtable {
     background-color: blanchedalmond;
 }
-
 .firstLine > td {
     color:fuchsia
+}
+td ~ td {
+    background-color: cadetblue;
 }
